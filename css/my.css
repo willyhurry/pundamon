@@ -1,0 +1,14 @@
+
+		table,
+		th,
+		td {
+			border: 1px solid black;
+		}
+        img
+        {
+            width: 100px;
+        }
+	.myimg 
+    {
+        width: 200px;
+    }
